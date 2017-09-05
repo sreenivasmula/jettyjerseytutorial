@@ -1,0 +1,13 @@
+/*.classpath
+
+/*.project
+
+/.settings
+
+/target/classes/META-INF
+
+/target/maven-archiver
+
+/target/classes/com/sreeni/rest/api
+
+/target
